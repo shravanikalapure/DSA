@@ -8,6 +8,7 @@
 ## Array
 |  |
 | ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/shravanikalapure/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/shravanikalapure/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1250-check-if-it-is-a-good-array](https://github.com/shravanikalapure/DSA/tree/master/1250-check-if-it-is-a-good-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/shravanikalapure/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -15,6 +16,7 @@
 ## Math
 |  |
 | ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/shravanikalapure/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [1250-check-if-it-is-a-good-array](https://github.com/shravanikalapure/DSA/tree/master/1250-check-if-it-is-a-good-array) |
 ## Number Theory
 |  |
@@ -36,6 +38,7 @@
 ## Stack
 |  |
 | ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/shravanikalapure/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [1441-build-an-array-with-stack-operations](https://github.com/shravanikalapure/DSA/tree/master/1441-build-an-array-with-stack-operations) |
 ## Simulation
 |  |
