@@ -20,6 +20,7 @@
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/shravanikalapure/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [1250-check-if-it-is-a-good-array](https://github.com/shravanikalapure/DSA/tree/master/1250-check-if-it-is-a-good-array) |
+| [2235-add-two-integers](https://github.com/shravanikalapure/DSA/tree/master/2235-add-two-integers) |
 ## Number Theory
 |  |
 | ------- |
