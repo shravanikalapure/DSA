@@ -18,6 +18,7 @@
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/shravanikalapure/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1441-build-an-array-with-stack-operations](https://github.com/shravanikalapure/DSA/tree/master/1441-build-an-array-with-stack-operations) |
 | [1480-running-sum-of-1d-array](https://github.com/shravanikalapure/DSA/tree/master/1480-running-sum-of-1d-array) |
+| [1672-richest-customer-wealth](https://github.com/shravanikalapure/DSA/tree/master/1672-richest-customer-wealth) |
 ## Math
 |  |
 | ------- |
@@ -84,4 +85,8 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/shravanikalapure/DSA/tree/master/0011-container-with-most-water) |
+## Matrix
+|  |
+| ------- |
+| [1672-richest-customer-wealth](https://github.com/shravanikalapure/DSA/tree/master/1672-richest-customer-wealth) |
 <!---LeetCode Topics End-->
