@@ -8,6 +8,7 @@
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/shravanikalapure/DSA/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/shravanikalapure/DSA/tree/master/0014-longest-common-prefix) |
 | [0042-trapping-rain-water](https://github.com/shravanikalapure/DSA/tree/master/0042-trapping-rain-water) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/shravanikalapure/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -52,6 +53,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/shravanikalapure/DSA/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/shravanikalapure/DSA/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/shravanikalapure/DSA/tree/master/0125-valid-palindrome) |
 ## String
@@ -75,4 +77,8 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/shravanikalapure/DSA/tree/master/0042-trapping-rain-water) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/shravanikalapure/DSA/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
