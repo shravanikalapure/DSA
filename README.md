@@ -9,6 +9,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/shravanikalapure/DSA/tree/master/0014-longest-common-prefix) |
+| [0042-trapping-rain-water](https://github.com/shravanikalapure/DSA/tree/master/0042-trapping-rain-water) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/shravanikalapure/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/shravanikalapure/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1250-check-if-it-is-a-good-array](https://github.com/shravanikalapure/DSA/tree/master/1250-check-if-it-is-a-good-array) |
@@ -41,6 +42,7 @@
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/shravanikalapure/DSA/tree/master/0042-trapping-rain-water) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/shravanikalapure/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [1441-build-an-array-with-stack-operations](https://github.com/shravanikalapure/DSA/tree/master/1441-build-an-array-with-stack-operations) |
 ## Simulation
@@ -50,6 +52,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/shravanikalapure/DSA/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/shravanikalapure/DSA/tree/master/0125-valid-palindrome) |
 ## String
 |  |
@@ -64,4 +67,12 @@
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/shravanikalapure/DSA/tree/master/1480-running-sum-of-1d-array) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/shravanikalapure/DSA/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/shravanikalapure/DSA/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
