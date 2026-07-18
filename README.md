@@ -23,6 +23,7 @@
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/shravanikalapure/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0412-fizz-buzz](https://github.com/shravanikalapure/DSA/tree/master/0412-fizz-buzz) |
 | [1250-check-if-it-is-a-good-array](https://github.com/shravanikalapure/DSA/tree/master/1250-check-if-it-is-a-good-array) |
 | [2235-add-two-integers](https://github.com/shravanikalapure/DSA/tree/master/2235-add-two-integers) |
 ## Number Theory
@@ -52,6 +53,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/shravanikalapure/DSA/tree/master/0412-fizz-buzz) |
 | [1441-build-an-array-with-stack-operations](https://github.com/shravanikalapure/DSA/tree/master/1441-build-an-array-with-stack-operations) |
 ## Two Pointers
 |  |
@@ -65,6 +67,7 @@
 | ------- |
 | [0014-longest-common-prefix](https://github.com/shravanikalapure/DSA/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/shravanikalapure/DSA/tree/master/0125-valid-palindrome) |
+| [0412-fizz-buzz](https://github.com/shravanikalapure/DSA/tree/master/0412-fizz-buzz) |
 ## Trie
 |  |
 | ------- |
