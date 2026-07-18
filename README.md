@@ -14,6 +14,7 @@
 | [0075-sort-colors](https://github.com/shravanikalapure/DSA/tree/master/0075-sort-colors) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/shravanikalapure/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/shravanikalapure/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0636-exclusive-time-of-functions](https://github.com/shravanikalapure/DSA/tree/master/0636-exclusive-time-of-functions) |
 | [1250-check-if-it-is-a-good-array](https://github.com/shravanikalapure/DSA/tree/master/1250-check-if-it-is-a-good-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/shravanikalapure/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1441-build-an-array-with-stack-operations](https://github.com/shravanikalapure/DSA/tree/master/1441-build-an-array-with-stack-operations) |
@@ -49,6 +50,7 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/shravanikalapure/DSA/tree/master/0042-trapping-rain-water) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/shravanikalapure/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0636-exclusive-time-of-functions](https://github.com/shravanikalapure/DSA/tree/master/0636-exclusive-time-of-functions) |
 | [1441-build-an-array-with-stack-operations](https://github.com/shravanikalapure/DSA/tree/master/1441-build-an-array-with-stack-operations) |
 ## Simulation
 |  |
