@@ -12,6 +12,7 @@
 | [0014-longest-common-prefix](https://github.com/shravanikalapure/DSA/tree/master/0014-longest-common-prefix) |
 | [0042-trapping-rain-water](https://github.com/shravanikalapure/DSA/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/shravanikalapure/DSA/tree/master/0075-sort-colors) |
+| [0084-largest-rectangle-in-histogram](https://github.com/shravanikalapure/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/shravanikalapure/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/shravanikalapure/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0636-exclusive-time-of-functions](https://github.com/shravanikalapure/DSA/tree/master/0636-exclusive-time-of-functions) |
@@ -50,6 +51,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/shravanikalapure/DSA/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/shravanikalapure/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/shravanikalapure/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0636-exclusive-time-of-functions](https://github.com/shravanikalapure/DSA/tree/master/0636-exclusive-time-of-functions) |
 | [1441-build-an-array-with-stack-operations](https://github.com/shravanikalapure/DSA/tree/master/1441-build-an-array-with-stack-operations) |
@@ -89,6 +91,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/shravanikalapure/DSA/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/shravanikalapure/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/shravanikalapure/DSA/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Greedy
 |  |
