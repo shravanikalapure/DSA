@@ -6,6 +6,7 @@
 | ------- |
 | [0175-combine-two-tables](https://github.com/shravanikalapure/DSA/tree/master/0175-combine-two-tables) |
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/shravanikalapure/DSA/tree/master/0586-customer-placing-the-largest-number-of-orders) |
+| [1757-recyclable-and-low-fat-products](https://github.com/shravanikalapure/DSA/tree/master/1757-recyclable-and-low-fat-products) |
 ## Array
 |  |
 | ------- |
