@@ -33,6 +33,7 @@
 | [1672-richest-customer-wealth](https://github.com/shravanikalapure/DSA/tree/master/1672-richest-customer-wealth) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/shravanikalapure/DSA/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/shravanikalapure/DSA/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2073-time-needed-to-buy-tickets](https://github.com/shravanikalapure/DSA/tree/master/2073-time-needed-to-buy-tickets) |
 ## Math
 |  |
 | ------- |
@@ -76,6 +77,7 @@
 | [1441-build-an-array-with-stack-operations](https://github.com/shravanikalapure/DSA/tree/master/1441-build-an-array-with-stack-operations) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/shravanikalapure/DSA/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/shravanikalapure/DSA/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2073-time-needed-to-buy-tickets](https://github.com/shravanikalapure/DSA/tree/master/2073-time-needed-to-buy-tickets) |
 ## Two Pointers
 |  |
 | ------- |
@@ -122,4 +124,5 @@
 |  |
 | ------- |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/shravanikalapure/DSA/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [2073-time-needed-to-buy-tickets](https://github.com/shravanikalapure/DSA/tree/master/2073-time-needed-to-buy-tickets) |
 <!---LeetCode Topics End-->
