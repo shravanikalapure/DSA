@@ -26,6 +26,7 @@
 | [0042-trapping-rain-water](https://github.com/shravanikalapure/DSA/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/shravanikalapure/DSA/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/shravanikalapure/DSA/tree/master/0084-largest-rectangle-in-histogram) |
+| [0088-merge-sorted-array](https://github.com/shravanikalapure/DSA/tree/master/0088-merge-sorted-array) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/shravanikalapure/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/shravanikalapure/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0636-exclusive-time-of-functions](https://github.com/shravanikalapure/DSA/tree/master/0636-exclusive-time-of-functions) |
@@ -59,6 +60,7 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/shravanikalapure/DSA/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/shravanikalapure/DSA/tree/master/0088-merge-sorted-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/shravanikalapure/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Counting Sort
 |  |
@@ -90,6 +92,7 @@
 | [0011-container-with-most-water](https://github.com/shravanikalapure/DSA/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/shravanikalapure/DSA/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/shravanikalapure/DSA/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/shravanikalapure/DSA/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/shravanikalapure/DSA/tree/master/0125-valid-palindrome) |
 ## String
 |  |
