@@ -30,6 +30,7 @@
 | [0075-sort-colors](https://github.com/shravanikalapure/DSA/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/shravanikalapure/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/shravanikalapure/DSA/tree/master/0088-merge-sorted-array) |
+| [0136-single-number](https://github.com/shravanikalapure/DSA/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/shravanikalapure/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/shravanikalapure/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0636-exclusive-time-of-functions](https://github.com/shravanikalapure/DSA/tree/master/0636-exclusive-time-of-functions) |
@@ -142,4 +143,8 @@
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/shravanikalapure/DSA/tree/master/0232-implement-queue-using-stacks) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/shravanikalapure/DSA/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
