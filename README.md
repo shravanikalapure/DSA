@@ -55,6 +55,7 @@
 | [0088-merge-sorted-array](https://github.com/shravanikalapure/DSA/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/shravanikalapure/DSA/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/shravanikalapure/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0238-product-of-array-except-self](https://github.com/shravanikalapure/DSA/tree/master/0238-product-of-array-except-self) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/shravanikalapure/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0636-exclusive-time-of-functions](https://github.com/shravanikalapure/DSA/tree/master/0636-exclusive-time-of-functions) |
 | [0739-daily-temperatures](https://github.com/shravanikalapure/DSA/tree/master/0739-daily-temperatures) |
@@ -136,6 +137,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/shravanikalapure/DSA/tree/master/0238-product-of-array-except-self) |
 | [1480-running-sum-of-1d-array](https://github.com/shravanikalapure/DSA/tree/master/1480-running-sum-of-1d-array) |
 ## Dynamic Programming
 |  |
